@@ -69,7 +69,7 @@ Contributors help shape the future of the Blueprint modding framework. To start 
 <!-- Related Links -->
 <br/><h2 align="center">🔗 Related Links</h2>
 
-[**Pterodactyl**](https://pterodactyl.io/) is a free, open-source game server management panel built with PHP, React, and Go.\
+[**Pterodactyl**](http://jexactyl.com/) is an open-source, feature-rich fork of Pterodactyl which includes several features and improvements over existing software.\
 [**BlueprintFramework/docker**](https://github.com/BlueprintFramework/docker) is the image for running Blueprint and Pterodactyl with Docker.\
 [**BlueprintFramework/templates**](https://github.com/BlueprintFramework/templates) is a repository with initialization templates for extension development.\
 [**BlueprintFramework/web**](https://github.com/BlueprintFramework/web) is our open-source documentation and landing website.
